@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "channel": "production-android",
+  "version": "1.0.2-ota.production-android.r000120.nv1.0.1.db2",
+  "url": "https://github.com/towkirahmedrony/porokh-ota/releases/download/ota-production-android-r000120/porokh-production-android-1.0.2-r000120.zip.enc",
+  "checksum": "919403438ddf5d5b079434555cfd46f05837e1e6af1866de2259b1e606b4622ad85c8a4905602d9675d685b1163e0b794e035a964da29c8e1dfb4be5bfbfe16c22e6bb3e829f24de05c106208b084818f48a99609e24699927c91d1c00413f5eef963f8a3aaa5c60c6245bf3782f915f277cc90bbeb43cfba2e5d43a417c253c0a76213bdd1e129092fc3ee341af8d8fc61d42402bcf1979dd618f5e1c16934d793909234b8d165deac03094d2bcc05a0ed1af5fe83fc4c1e75c3783efaf83d1ad2aefbd48288b0d5cd31502c461d82402fd3220c6af826392f6adc03da998714eaa29a16adaf7478eed5063b2af04b6f11ef375f0c57c4c38e4d210acc6a64c",
+  "sessionKey": "Sqq5MLSKPjYiC3OyfArwBg==:T91YEZTm3ElylALdwuwEyM7aZzoCP0rKpdlR7ew7SUqs0XV5u5w3CrmJ8RODFvMjrnOx2gspT5ejWF8vgBsePHVpdvgaE+WjXk/4SSQEB5kk2bv446K0MpO+iGXRVh5q88SdKQWc/J3S8yHZyatbtFxeTz3fvltuia9Up5s/liIwtGJpicQeOv2VsKow3C935wu5gZdemxqk2RZe9mySSK8Bvd7Q8uZYKM+/xXnubEd/C+0teamWOaonVFAj8L7lAv2qSCYhPG9aTmoSXUsXHW9O7Vx1KZfhNUxu0HinFIw3Y2LU8JMBNadrbaJmJ17lBYnRrUd/Tdak8avF3qRHRQ==",
+  "minNativeVersion": "1.0.1",
+  "requiredSchemaVersion": 2,
+  "revision": 120,
+  "generation": 1,
+  "publishedAt": "2026-11-01T19:36:49.742Z",
+  "notes": "Git f940ad6",
+  "signature": "oW3z3/H57JPTrOTVyHCSNAQd5QSOHjhnvJ1BliYjfoKYcAjeHGg6r9smBQXaGXvPZH9gg2Imj8wUlLlOucKTBw=="
+}
