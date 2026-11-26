@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "production-android",
-  "version": "1.0.5-ota.production-android.r000196.nv1.0.1.db2",
-  "url": "https://github.com/towkirahmedrony/porokh-ota/releases/download/ota-production-android-r000196/porokh-production-android-1.0.5-r000196.zip.enc",
-  "checksum": "8a12a6d59123329059197ba5276da004624539531f0b1a0d2d4613e02375a37428ed7d2896b123498429b0b5355a59836c032ba6d7d1fc3a6b9785aa3b2521fac1c986d3a60713d4071d6da69f237803e89d68dcd5fb36705947b4bd5c218bbd3aba205e487509e2ec3b12458dd76d86d98d279fbd012302ab7c1a4b867bcbc2eb948fbb8da1460c8467ee440180d998b39d3f1aac420e3f6621ee0b7f7a9ca899fb3d0a63d84ff7fdc25227c219b72f8e2b70d67888b0aa9f6d7d633577d44d9eefef3a09a9f3227a5a31233204718c88c9f78fd449a0982efb3c5c9a73259daa57e5ecb354439a6da1400dc3f32d406284ed7a9ab2fd53cb3421fc34e56299",
-  "sessionKey": "sSDg0UN9f6DRPYgDcU9Q4Q==:j5XcSiyiR8bmeWnoOOp4+0xAmW7lP0qzZb35FLo0iNRU/ZV64EAq9BQNGYuftS99YtQbwN0YaRR0Nv9YsTciqeyJOGVqT5s3hFLHyc45GOQEO4GRQZmnOXhUl+D947bMq4StUcWZLdVbnovMg6CS1Tf9g/PpE16oQJx4CHiUvsJEi1crM0KlLZN1CAtFdko4S6oQB2/wHX9zXmjGYtEa1zCUIeTUSNDhKezzR71ELbNGfGeUduiULswdIWx3t7SJzie8RJZuWvfIcZTB1VKGyLevcUivdwZooh0I968dHabpqBGorXgq7C7qwt7SRIHKS3gJxs/jSjd8J+fxHtzHSQ==",
+  "version": "1.0.5-ota.production-android.r000198.nv1.0.1.db2",
+  "url": "https://github.com/towkirahmedrony/porokh-ota/releases/download/ota-production-android-r000198/porokh-production-android-1.0.5-r000198.zip.enc",
+  "checksum": "0d0acbf4cbce4cf31fd00026c2c13e4ecc4b7a9bae03c66139da4f3a9a3d6732b2e7e2d50ee7707b90c2cf0f13fe54028a2b10a33f2bf6759b9217503abd3961710abd5c0fae9db7e2c97c7e330d2be387702996a72ca7c98793ebdca50143ea4df452253441dc3182fbbeb2917aeac498fdc402731249b6cc04cfe5ed8a4c16e5950f9ae487c9cc8659b06dd9b3aaa1c9060b2bc21f45a2160cd7e0715af153ebeae7ab3ecb59e6a045ff424dd6675887fd8e20ecaca48d3747257dc78d2753576187df39372f5f0dd7a7013203a584f4e214d9376489cde04174fb8469680bbeb47a8d0de6509949aa822c960fb84c4add278c78755f83f2c428dfa6e14e3d",
+  "sessionKey": "qRPTEk1LIdaCc8XQbtEYMw==:F+jhZOUht/wbk6OVddsoaEN8zwNTCCBW8LPvPCyfcorVGnm+OL8zNoVqDPDscoZBnozlBKgzOUc4Nu7XMXVBt2XgGsZzYm6UdVdNgP6IrTi59TI0hgpIGhTfgmzMfSCLjsoczxR6a4h5wzzO96VwA1kqPUtJ6YzvMHVcomZpdlFXICE7/KMo16+TLa6ysC9ExEZvyG1A8BFn6St2HsZp+hKTqF42XsZi0WFnNwpzpCw1ruomZfrO8qFpWt9fQNjtqFUgKBKRd4fB1Fz5RW9paz+ZHK9TTB/iTRgp49Lun4dJsY5NEAapOpZHbtlsjLITFQcw4zHfJD/m81PbqBW3bQ==",
   "minNativeVersion": "1.0.1",
   "requiredSchemaVersion": 2,
-  "revision": 196,
-  "generation": 32,
-  "publishedAt": "2026-11-25T16:22:37.299Z",
-  "notes": "Git c0ad014",
-  "signature": "XkVobmZHphZqSjShRMzoLt8sXY8b3z19GraxpekfpCnGmFeNnA4EmUxboX6uCoPxPVkGyd4/aWaeYrt91pSMAw=="
+  "revision": 198,
+  "generation": 33,
+  "publishedAt": "2026-11-26T13:12:56.838Z",
+  "notes": "Git 9df0be2",
+  "signature": "L9R79k9AX7Jl/WgTpCCuSYZ7110FRGUz1AkU3XFVxEIxn/3+8j2CE0G7coJV8muwygQ63kMPZMyI4o7uySS7CQ=="
 }
